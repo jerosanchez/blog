@@ -18,13 +18,13 @@ In chronological order of publication:
 
 * [The C Programming Language (2nd Edition)](https://www.goodreads.com/book/show/515601.The_C_Programming_Language) by Brian Kernighan, Dennis Ritchie (1988)
 
-* [Object-Oriented Software Engineering: A Use Case Driven Approach](https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering) by Ivar Jacobson (1992) - COMPRAR
+* [Object-Oriented Software Engineering: A Use Case Driven Approach](https://www.goodreads.com/book/show/296981.Object_Oriented_Software_Engineering) by Ivar Jacobson (1992)
 
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (1994)
 
 * [The Mythical Man-Month (Anniversary Edition)](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) by Frederick P. Brooks, Jr. (1995)
 
-* [The Structure and Interpretation of Computer Programs (2nd Edition)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) by Harold Abelson, Gerald Jay Sussman, Julie Sussman (1996) - COMPRAR
+* [The Structure and Interpretation of Computer Programs (2nd Edition)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) by Harold Abelson, Gerald Jay Sussman, Julie Sussman (1996)
 
 * [Extreme Programming Explained: Embrace Change](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained) by Kent Beck (1999)
 
@@ -32,15 +32,15 @@ In chronological order of publication:
 
 * [Software Craftsmanship: The New Imperative](https://www.goodreads.com/book/show/1035377.Software_Craftsmanship) by Peter McBreen (2001)
 
-* [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (2002) - COMPRAR
+* [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (2002)
 
 * [Agile Software Development: Principles, Patterns, and Practices](https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices) by Robert C. Martin (2002)
 
 * [Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler (2002)
 
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) by Eric Evans (2003) - COMPRAR
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) by Eric Evans (2003)
 
-* [The Art of UNIX Programming](https://www.goodreads.com/book/show/104745.The_Art_of_UNIX_Programming) by Eric S. Raymond (2003) - COMPRAR
+* [The Art of UNIX Programming](https://www.goodreads.com/book/show/104745.The_Art_of_UNIX_Programming) by Eric S. Raymond (2003)
 
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael C. Feathers (2004)
 
@@ -50,7 +50,7 @@ In chronological order of publication:
 
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert C. Martin (2011)
 
-* [The Art of Computer Programming, Volumes 1-4](https://www.goodreads.com/book/show/9410434-the-art-of-computer-programming-volumes-1-4a-boxed-set) by Donald E. Knuth (2011) - COMPRAR
+* [The Art of Computer Programming, Volumes 1-4](https://www.goodreads.com/book/show/9410434-the-art-of-computer-programming-volumes-1-4a-boxed-set) by Donald E. Knuth (2011)
 
 * [Pro Git (2nd Edition)](https://www.goodreads.com/book/show/6518085-pro-git) by Scott Chacon, Ben Straub (2014)
 
