@@ -2,7 +2,7 @@
 
 English version of all the content posted in my blog [Programador Artesano](https://programadorartesano.com).
 
-[About](Pages/about.md)
+[Books](Pages/books.md) | [About](Pages/about.md)
 
 ---
 
