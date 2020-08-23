@@ -4,11 +4,11 @@
 
 Learning to code is easy. Being a good programmer is another story. I share some of the habits that you must internalize if you want to program in a professional way.
 
-! [Cup of coffee] (https://images.unsplash.com/photo-1497515114629-f71d768fd07c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWczfQN)
+! [Cup of coffee](https://images.unsplash.com/photo-1497515114629-f71d768fd07c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWczfQN)
 
 ---
 
-I have a huge _backlog_ of talks to watch from the last WWDC. As things are, I doubt that I will have time to see everything I want to see before the next conference... too much to bite! Anyway, the point is that I found one of the last videos veri interesting, [Great Developer Habits - WWDC 2019] (https://developer.apple.com/videos/play/wwdc2019/239/), and as I was taking notes I thought that they very well served as a declaration of intent and guide for the blog.
+I have a huge _backlog_ of talks to watch from the last WWDC. As things are, I doubt that I will have time to see everything I want to see before the next conference... too much to bite! Anyway, the point is that I found one of the last videos veri interesting, [Great Developer Habits - WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/239/), and as I was taking notes I thought that they very well served as a declaration of intent and guide for the blog.
 
 So I share with you these ideas to become a good programmer. As is logical, coming from a WWDC, some points are very directed to those of us who use Xcode as a daily workhorse, but there is also deep wisdom that can be used by anyone who debotes his life to this noble profession of writing code.
 
@@ -68,7 +68,7 @@ Articles will surely drop to delve into many of these ideas 😉
 
 ## Manage
 
-32. Use open source and the work of the community [responsibly] (https://programadorartesano.com/lidiando-con-las-dependencias-externas/)
+32. Use open source and the work of the community [responsibly](https://programadorartesano.com/lidiando-con-las-dependencias-externas/)
 33. Thoroughly understand the dependencies you add
 34. Make sure that everything you add respects privacy
 35. Have a plan ready in case any dependency disappears or stops being maintained
