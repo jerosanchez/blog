@@ -6,7 +6,7 @@ author: "Jero Sanchez"
 tags: [ "career" ]
 ---
 
-![A monochromatic digital illustration of a person with short hair, glasses, and a beard working at a desk with a laptop on a stand, a large monitor equipped with a wide light bar, a plant, and a cup of coffee.](https://jerosanchez.github.io/blog/images/working-at-desk.png)
+![A monochromatic digital illustration of a person with short hair, glasses, and a beard working at a desk with a laptop on a stand, a large monitor equipped with a wide light bar, a plant, and a cup of coffee.](/blog/images/working-at-desk.png)
 
 Some weeks ago I decided to took some sabbatical time to **transition from mobile development to backend engineering**. Now the question was how could I do it without getting stuck in a tutorial hell, endless readings, or binge watching sessions in YouTube.
 
