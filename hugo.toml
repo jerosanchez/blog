@@ -1,7 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jerosanchez.github.io/blog/'
 languageCode = 'en-us'
 title = "Jero Sanchez"
-subtitle = "My personal blog"
 copyright = "© Jero Sanchez"
 theme = 'archie'
 
