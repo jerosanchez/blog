@@ -1,4 +1,4 @@
-baseURL = 'https://jerosanchez.github.io/blog/'
+baseURL = 'https://jerosanchez.com'
 languageCode = 'en-us'
 title = "Jero Sanchez"
 copyright = "© Jero Sanchez"
@@ -14,7 +14,7 @@ theme = 'archie'
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/jerosanchez"
+url = "https://github.com/jerosanchez/blog"
 
 [[params.social]]
 name = "LinkedIn"
