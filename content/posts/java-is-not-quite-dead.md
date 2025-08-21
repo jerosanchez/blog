@@ -23,3 +23,5 @@ I apologize to the horde of new developers who say Java is dead. Maybe the [huge
 Be that as it may, the **hard facts** are that Java is a very mature technology that has proven its value during the years, has evolved very well to offer a modern development experience, has ranked consistently [in the top 5 most relevant programming languages](https://www.tiobe.com/tiobe-index/) since a couple of decades ago, and there's no doubt [it continues being the future](https://blog.payara.fish/10-compelling-reasons-why-java-is-the-future-of-enterprise-app-development-in-2025) in the enterprise world.
 
 Java is not even close to dead, it seems.
+
+_Disclaimer: The illustration of this post is AI-generated._
