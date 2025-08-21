@@ -1,7 +1,7 @@
 ---
 title: "A Crazy Idea"
 description: "On what can I do to become a serious backend developer."
-date: 2024-08-22T08:00:00
+date: 2025-12-31T08:00:00
 author: "Jero Sanchez"
 tags: [ "career" ]
 ---

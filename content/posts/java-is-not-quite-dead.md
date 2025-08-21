@@ -1,9 +1,9 @@
 ---
 title: 'Java Is Not Quite Dead'
 description: "On why Java is a totally sensible technology to choose"
-date: 2024-08-29T08:00:00
+date: 2025-12-31T08:00:00
 author: "Jero Sanchez"
-tags: [ "technologies" ]
+tags: [ "java" ]
 ---
 
 ![Comic-style drawing of a hand rising from a graveyard holding a steaming Java coffee mug among tombstones of dead programming languages.](/blog/images/java-is-not-dead.png)

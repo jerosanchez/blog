@@ -14,7 +14,7 @@ theme = 'archie'
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/jerosanchez/blog"
+url = "https://github.com/jerosanchez"
 
 [[params.social]]
 name = "LinkedIn"
